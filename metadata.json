@@ -1,0 +1,8 @@
+{
+  "name": "Remix Foul",
+  "description": "تطبيق كرة قدم فاخر مع مشغل متقدم ودعم بث القنوات وقاعدة بيانات Firebase الحقيقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
